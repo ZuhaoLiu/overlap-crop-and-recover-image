@@ -21,7 +21,7 @@ recovered image:
 ### Run programme
 Below script gives you an example of running a sample programme.
 ```
-python ResNeXt.py \
+python main.py \
 --cropped_image_height 256 \
 --cropped_image_width 256  \
 --overlap_coefficient 2 \

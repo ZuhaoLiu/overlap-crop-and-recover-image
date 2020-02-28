@@ -9,4 +9,4 @@ original image:
 
 cropped images:
 
-![image](https://github.com/flyingdingding/overlap-crop-and-recover-image/blob/master/test_images/1_2.jpg)
+![image](https://github.com/flyingdingding/overlap-crop-and-recover-image/blob/master/test_images/resize_2.jpg)

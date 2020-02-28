@@ -3,10 +3,12 @@ In some image segmentation task (such as nuclei segmentation), because large ima
 # visualization effect
 original image:
 
-
 ![image](https://github.com/flyingdingding/overlap-crop-and-recover-image/blob/master/test_images/resize_2.png)
-
 
 cropped images:
 
 ![image](https://github.com/flyingdingding/overlap-crop-and-recover-image/blob/master/test_images/resize_3.jpg)
+
+recovered image:
+
+![image](https://github.com/flyingdingding/overlap-crop-and-recover-image/blob/master/test_images/resize_2.png)

@@ -12,3 +12,8 @@ cropped images:
 recovered image:
 
 ![image](https://github.com/flyingdingding/overlap-crop-and-recover-image/blob/master/test_images/resize_2.png)
+
+## Prerequisites
+- Python 3.x
+- numpy
+- pillow

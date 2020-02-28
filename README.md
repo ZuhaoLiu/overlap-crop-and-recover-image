@@ -4,4 +4,4 @@ In some image segmentation task (such as nuclei segmentation), because large ima
 original image:
 ![image](https://github.com/flyingdingding/overlap-crop-and-recover-image/blob/master/test_images/1.tif)
 cropped images:
-![image](https://github.com/flyingdingding/overlap-crop-and-recover-image/blob/master/test_images/1_2.tif)
+![image](https://github.com/flyingdingding/overlap-crop-and-recover-image/blob/master/test_images/1_2.jpg)

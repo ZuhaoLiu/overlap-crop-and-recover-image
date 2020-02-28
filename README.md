@@ -17,3 +17,12 @@ recovered image:
 - Python 3.x
 - numpy
 - pillow
+
+### Run programme
+Below script gives you an example of running a sample programme.
+```
+python ResNeXt.py \
+--cropped_image_height 256 \
+--cropped_image_width 256  \
+--overlap_coefficient 2 \
+```
